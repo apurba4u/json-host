@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 15.99,
+      "stock": 120,
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 75,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 39.5,
+      "stock": 200,
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 25.0,
+      "stock": 150,
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 120.0,
+      "stock": 60,
+      "rating": 4.6
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "name": "Rahim Uddin",
+      "email": "rahim@example.com",
+      "phone": "+8801712345678",
+      "address": "Dhaka, Bangladesh",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Karim Ahmed",
+      "email": "karim@example.com",
+      "phone": "+8801812345678",
+      "address": "Chittagong, Bangladesh",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Nusrat Jahan",
+      "email": "nusrat@example.com",
+      "phone": "+8801912345678",
+      "address": "Khulna, Bangladesh",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "name": "Tanvir Hasan",
+      "email": "tanvir@example.com",
+      "phone": "+8801612345678",
+      "address": "Rajshahi, Bangladesh",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Mim Akter",
+      "email": "mim@example.com",
+      "phone": "+8801512345678",
+      "address": "Sylhet, Bangladesh",
+      "isActive": true
+    }
+  ]
+}
